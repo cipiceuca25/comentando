@@ -7,6 +7,7 @@ Librería adicionales
 * Active Record
 * Jquery
 * Bootstrap 
+
 Uso
 ==========
 1. Montar base de datos: comentarios.sql (Motor MYSQL)
