@@ -13,8 +13,8 @@ Uso
 * Montar base de datos: comentarios.sql (Motor MYSQL)
 * configurar el usuario y la contraseña de la base de datos.
    en el archivo comentando/application/config/database.php
-```   
+    ```   
          $db['default']['username'] = 'MY_USER';
-            $db['default']['password'] = 'MY_PASS';
-            ```
+         $db['default']['password'] = 'MY_PASS';
+   ```
 * ENJOY!
