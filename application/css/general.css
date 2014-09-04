@@ -1,0 +1,40 @@
+@media (min-width: 768px) {
+  .container {
+    max-width: 730px;
+  }
+}
+
+label, select, textarea {
+    display: block;
+}
+
+ul{
+    list-style: none;
+}
+
+ul li{
+  padding: 6px;
+  margin-top: 8px;
+}
+
+.container .opciones{
+    display: block;
+}
+
+.btn-opciones {
+  padding:2px 2px 2px 2px;
+  font-size:11px;
+}
+
+.container .right{
+   margin-left: 78%
+}
+
+input.btn.btn-success {
+  margin-top:15px;
+  margin-bottom:15px;
+}
+
+label{
+  margin-top:10px;
+}
